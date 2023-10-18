@@ -1,4 +1,4 @@
-Part 1
+## Part 1
 **Code for StringServer:**
 ![StringServer](https://github.com/Quianey/cse15l-lab-report2/assets/147276821/913880ab-74dc-4b34-ab4f-a297c96e1e55)
 
@@ -23,3 +23,15 @@ When the method is called, java will first find */add-message* in the url. Then,
 For the first call, *num* should be *1*. For the second coo, *num* should be *2*
 For the first call, *result* should be *1. Hello*. For the second call, *result* should be *1. Hello\n 2.How are you*
 
+## Part 2
+**The path to the private key for your SSH key for logging into ieng6**
+![ls private](https://github.com/Quianey/cse15l-lab-report2/assets/147276821/d832d332-492b-452b-ab45-a6e3a5e7b4f9)
+
+**The path to the public key for your SSH key for logging into ieng6**
+![ls public](https://github.com/Quianey/cse15l-lab-report2/assets/147276821/f3b24eed-ca6d-4033-a3e1-1cdab0bc6beb)
+
+**A terminal interaction where you log into ieng6 with your course-specific account without being asked for a password.**
+![I dont need password](https://github.com/Quianey/cse15l-lab-report2/assets/147276821/9cb752cd-cf22-4d72-9e3b-ac6dac53a383)
+
+## Part 3
+I understand the components of a url, which are domain, path, query, and anchor. I learned how to create a server by my own, which is AMAZING! And I also learned how to run a server on my computer. I can show my friends that I can create a survey anywhere! 
