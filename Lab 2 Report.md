@@ -25,6 +25,7 @@ For the first call, *result* should be *1. Hello*. For the second call, *result*
 ## Part 2
 
 **The path to the private key for your SSH key for logging into ieng6**
+
 ![ls private](https://github.com/Quianey/cse15l-lab-report2/assets/147276821/d832d332-492b-452b-ab45-a6e3a5e7b4f9)
 
 **The path to the public key for your SSH key for logging into ieng6**
